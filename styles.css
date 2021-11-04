@@ -1,0 +1,33 @@
+.btn {
+    padding: 5px;
+    margin-bottom: 5px;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px
+  }
+
+.btnDark{
+    background-color: black;
+}
+.btnCinza{
+  background-color: gray;
+}
+.btnPadrao{
+  background-color: white;
+  color: black
+}
+
+.bodyDark{
+  background-color: black;
+  color: gray;
+}
+.bodyGray{
+  background-color: gray;
+  color: black;
+}
+.bodyDefault{
+  background-color: white;
+}
+
+
+
